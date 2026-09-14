@@ -4,12 +4,6 @@ I am a software engineer focused on building clean, programmatic applications ac
 
 ### 🛠️ Tech Stack
 
-🚀 **Mobile Apps**  
-![Objective-C]
-![iOS SDK]
-![Kotlin]
-![React Native]
-
 🌐 **Fullstack Web & E-Commerce**  
 ![JavaScript]
 ![Reactjs]
@@ -25,11 +19,23 @@ I am a software engineer focused on building clean, programmatic applications ac
 ![WooCommerce]
 
 📈 **SEO & Analytics Optimization**  
-![Technical SEO]
+![Technical SEO, ON-Page, OFF-Page]
 ![Google Analytics 4]
 ![Ahrefs]
 ![SEMrush]
 ![Screaming Frog]
+
+🚀 **Mobile Apps**  
+![Objective-C]
+![iOS SDK]
+![Kotlin]
+![React Native]
+
+☁️ **Cloud, Infrastructure & DevOps**  
+![Docker]
+![Hostinger hPanel]
+![Linux VPS]
+![Git]
 
 ---
 
