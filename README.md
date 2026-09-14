@@ -19,7 +19,7 @@ I am a software engineer focused on building clean, programmatic applications ac
 ![WooCommerce]
 
 📈 **SEO & Analytics Optimization**  
-![Technical SEO, ON-Page, OFF-Page]
+![Technical SEO, ON-Page, OFF-Page, Ranking, Link-building]
 ![Google Analytics 4]
 ![Ahrefs]
 ![SEMrush]
