@@ -1,7 +1,33 @@
-## Hi there 👋
+## Hello there 👋 I'm Zee
 
-👋 Hey, I’m Zee — a developer who loves building across web, games, and data-driven projects.
+I am a software engineer focused on building clean, programmatic applications across **web, mobile, and data-driven systems**. I write strict, structural code and build layouts from scratch without relying on visual drag-and-drop builders.
 
-📱 Currently focused on iOS development with Objective-C, building apps programmatically (no Storyboards).
+### 🛠️ Tech Stack
 
-🚀 Always learning, always shipping, and open to collaborating on exciting ideas.
+🚀 **Mobile Apps**  
+![Objective-C]
+![iOS SDK]
+![Kotlin]
+![React Native]
+
+🌐 **Fullstack Web & E-Commerce**  
+![JavaScript]
+![React]
+![WooCommerce]
+
+🐘 **WordPress Engineering**  
+![PHP]
+![WordPress]
+![MySQL]
+
+📈 **SEO & Analytics Optimization**  
+![Technical SEO]
+![Google Analytics 4]
+![Ahrefs]
+![SEMrush]
+![Screaming Frog]
+
+---
+
+*   ⚡ Always learning, always shipping, and focused on clean, search-optimized architecture.
+*   💬 Open to collaborating on programmatic, logic-heavy development ideas.
