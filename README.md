@@ -12,13 +12,17 @@ I am a software engineer focused on building clean, programmatic applications ac
 
 🌐 **Fullstack Web & E-Commerce**  
 ![JavaScript]
-![React]
-![WooCommerce]
+![Reactjs]
+![Next.js]
+![Nodejs]
+![ExpressJs]
+![Postgress]
 
 🐘 **WordPress Engineering**  
 ![PHP]
 ![WordPress]
 ![MySQL]
+![WooCommerce]
 
 📈 **SEO & Analytics Optimization**  
 ![Technical SEO]
